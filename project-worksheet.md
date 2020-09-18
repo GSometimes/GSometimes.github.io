@@ -10,45 +10,46 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |---|---| ---|
 |Day 1| Design Mockup for Website in all views | Complete
 |Day 1| Documentation | Complete
-|Day 2| Project Approval / Initial Design | Incomplete
-|Day 3| Revisions/Changes and Javascript | Incomplete
-|Day 4| Revisions/Changes and Javscript | Incomplete
-|Day 5| Final Touches | Incomplete
-|Day 6| Present | Incomplete
+|Day 2| Project Approval / Initial Design | Complete
+|Day 3| Revisions/Changes and Javascript | Complete
+|Day 4| Revisions/Changes and Javscript | Complete
+|Day 5| Final Touches | Complete
+|Day 6| Present | Complete
 
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+Portfolio by Sometimes is an extension of my brand "..by Sometimes," with the parent being Designs by Sometimes. I wanted to make something simple, responsive and modern looking that would be a great starting point for me to build on as I progress as a developer. I went with a block layout and a color palette that would suit my style. It's clear, concise and to the point with a subtle nod to where I'm based out of. I want to throw in this [portfolio](https://www.ktumangan.com/) I came across on here because it was one of my favorite ones and it was my main inspiration for my page layout because of the 10-15 portfolios I looked at that was the one that I kept taking a second look at and felt the most "me" naturally.
 
 ## Google Sheet
 
-Include link to your google sheet here.  Here is the sample [Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTjcaVEgEjRmpg1J-xK2eK5xfQ4Vjw0ZEpYctzo2PkOHHzbOa6hfwb6508OEX3g208s85es822igok/pubhtml) 
+Here is my: [Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTjcaVEgEjRmpg1J-xK2eK5xfQ4Vjw0ZEpYctzo2PkOHHzbOa6hfwb6508OEX3g208s85es822igok/pubhtml) 
 
 ## Wireframes
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
+This is the mobile render of my website mockup:
 
-- [Mobile](https://imgur.com/7TqK5iO)
-- [Desktop](https://imgur.com/PXdYNBd)
+![](https://i.imgur.com/7TqK5iO.jpg)
 
-Wireframing Resources:
+This is the desktop render of my website mockup:
 
-- [Mockflow](https://mockflow.com/app/#Wireframe)
-- [Figma](https://www.figma.com/)
-
+![](https://i.imgur.com/PXdYNBd.jpg)
 
 ## Time/Priority Matrix 
 
-[Link](https://imgur.com/siqDKF6)
+Here is my time/priority matrix:
 
-Include a full list of features that have been prioritized based on the `Time and Priority` Matix.  This involves drawing a a square.  In the middle of the square, on the x axis draw a line.  The most left part of the line should start with 0hrs and the end of the line should include 2hrs.  This line will be used to estimate how much time any one feature will take to complete. 
+![](https://i.imgur.com/siqDKF6.jpg)
 
-Now draw a vertical line on the y axis.  The top of this line should have `High` and the bottom `Low`.  This line will be used to assign a priority to to each feature you wish to include in the project.  
+The way that I setup my time/priority matrix I wanted to work on the the layout/design elements with HTML/CSS first because that is something I feel more comfortable doing at this point and I didn't want to spend extra time struggling right out of the gate when I could get a lot more done and sooner and have more time to work on functionality.
 
-Now create a separate list starting with A and assign it one of the features.  Continue to assign each feature a letter.  Once complete add each letter to the matrix assigning based on what your feel it's prioirty is an how long it will take to implement. If any one feature takes longer than 2hrs to complete than break it down into smaller tasks and reassign them a new letter. 
+My Portfolio To-Do List:
+-Mockup and documentation.
+-Designing the page layout with containers.
+-Adding specific elements to each container, such as the contact form or background image.
+-Adding functionality via JSON and the Google Spreadsheet we made in class.
+-Finishing styling touches and making sure that elements are where I want and in the correct place.
 
-Once complete tally up the time and determine how long the project will take to complete. Now break those features into MVP and PostMVP so you can guarantee you will have a fully functioning project to demo. 
 
 ### MVP/PostMVP - 5min
 
@@ -74,45 +75,60 @@ Time frames are also key in the development cycle.  You have limited time to cod
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Mockup | H | 1hr | 2hr |
-| Page Layout | H | 2hr | hr |
-| Hamburger | H | 2hr | hr |  
-| CSS Grid/Flexbox | H | 2hr|  hr | 
-| Bootstrap | H | 2hr | hr|
-| Javscript | H | 3hrs|  hr | 
-| Wishlist Items | H | 2hr | hr | hr |
-| Finalizing Page | H | 2hr |  hr |
-| Total | H | 16 hrs| hrs |
+| Mockup | H | 2hr | 2hr |
+| Documentation | H | 2hr | 2hr |
+| Page Layout | H | 3hr | 3hr |
+| Hamburger | H | 2hr | 2hr |  
+| CSS Grid/Flexbox | H | 3hr|  4hr | 
+| Bootstrap | H | 2hr | 2hr|
+| Javscript | H | 4hrs|  4hr | 
+| Wishlist Items | H | 2hr | 2hr |
+| Finalizing Page | H | 2hr | 2 hr |
+| Total | H | 22 hrs| 23 hrs |
 
 #### PostMVP
+
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Mockup | H | 1hr | 2hr |
-| Page Layout | H | 2hr | hr |
-| Hamburger | H | 2hr | hr |
-| CSS Grid/Flexbox | H | 2hr | -hr |
-| Bootstrap | H | 2hr | hr |
-| Javscript | H | 3hr | hr |
-| Wishlist Items | H | 2hr | hr |
-| Finalizing Page | H | 2hr | hr |
-| Total | H | 20hrs| hrs |
+| Mockup | H | 2hr | 2hr |
+| Documentation | H | 2hr | 2hr |
+| Page Layout | H | 3hr | 3hr |
+| Hamburger | H | 2hr | 2hr |  
+| CSS Grid/Flexbox | H | 3hr|  4hr | 
+| Bootstrap | H | 2hr | 2hr|
+| Javscript | H | 4hrs|  4hr | 
+| Wishlist Items | H | 2hr | 2hr |
+| Finalizing Page | H | 2hr | 2 hr |
+| Total | H | 22 hrs| 23 hrs |
 
 ## Additional Libraries
- Use this section to list all supporting libraries and thier role in the project. 
+ Utilized W3Schools, Bootstrap, Stack Overflow, CSS Tricks, Font Awesome, Markdown Lesson.
 
 ## Code Snippet
 
-Use this section to include a brief code snippet of functionality that you are proud of an a brief description  
+The code snippet that I provided was center piece of my portfolio page in my opinion and I really like how it turned out despite being something so simple. Rule #32: Enjoy the little things.
 
 ```
-function reverse(string) {
-	// here is the code to reverse a string of text
-}
+  <div class="brandStatement">
+
+    <div class="brandText">
+          <p id="hello">Hello, my name is...</p>
+          <p id="myName">Gore Sometimes</p>
+          <p id="designer">I'm a designer specializing in modern UI and visual design.</p>   
+      </div>
+  </div>
+
+    .brandStatement {
+        background-image: url("https://i.imgur.com/LLLE3mL.jpg");
+        background-size: cover;
+        background-position: 0px;
+        margin: 10px;
+        height: 400px;
+        display: flex;
+        justify-content: center;
+    }
+
 ```
 
 ## Issues and Resolutions
- Use this section to list of all major issues encountered and their resolution.
-
-#### SAMPLE.....
-**ERROR**: app.js:34 Uncaught SyntaxError: Unexpected identifier                                
-**RESOLUTION**: Missing comma after first object in sources {} object
+ My biggest issue was linking my Google Spreadsheet to the cards on my page. It took me longer than I would have liked but I'm grateful for my classmates who helped me troubleshoot. The issue initially was that the ajax was pulling it's data from my index.html page and console logging that. It then turned to logging the correct data but giving me errors of variables not being defined or a jquery error message. The resolution came in the form of renaming variables and making sure that ${project.(element)} were in all the correct places and some formatting that was off. Glad to have gotten it done and a huge shoutout to Sampreet and Allisyn for helping me through it.
