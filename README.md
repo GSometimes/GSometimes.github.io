@@ -1,1 +1,1 @@
-# GSometimes.github.io
+# GoreSometimes.github.io
